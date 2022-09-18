@@ -170,6 +170,10 @@ def trip_duration_stats(df):
 
 # In[10]:
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> documentation
 #generating the user's info to analyze it
 
 def user_stats(df):
