@@ -1,5 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
+____________________________________________________________________________________________________________
+
 ### Date created
 Include the date you created this project and README file :
 
@@ -9,16 +11,22 @@ Include the date you created this project and README file :
 
 ** 9/18/2022
 
+____________________________________________________________________________________________________________
+
 ### Project Title
 
 Replace the Project Title :
 
 Bikes Analysis
 
+____________________________________________________________________________________________________________
+
 ### Description
 Describe what your project is about and what it does :
 
 The project is about bikes data on specific cities which are (chicago, New York, Washington).. trying to extract a benifit informations from the data to improve the company's products and maybe considering some new features to serve thier clients better.
+
+____________________________________________________________________________________________________________
 
 ### Files used
 Include the files used :
@@ -28,7 +36,9 @@ new_york_city.csv
 washington.csv
 
 ### Credits
+____________________________________________________________________________________________________________
 
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 Udacity's certification "Programming for data science with python" is my only refrence which inspires me a lot and built up my skills .
+____________________________________________________________________________________________________________
